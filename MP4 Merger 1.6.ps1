@@ -22,6 +22,7 @@ $preprocessCommand = $null
 Add-Type -AssemblyName System.Windows.Forms
 
 # Define the path to FFmpeg
+# Change this file path to your FFMPEG file path.
 $ffmpegPath = "C:\Users\LocalAdmin.HOME-BLACKBOX\OneDrive\Desktop\ffmpeg-master-latest-win64-gpl-shared\bin\ffmpeg.exe"
 
 # Check if FFmpeg exists
